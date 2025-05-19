@@ -1,3 +1,8 @@
+Important files to donwload before using this:
+ - using https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
+ - using https://github.com/oarriaga/face_classification/blob/master/trained_models/emotion_models/fer2013_mini_XCEPTION.102-0.66.hdf5 for CNN classification
+
+
 # Convulse
 
 CONVULSE:  mean computer tells you to do things (╯°□°）╯︵ ┻━┻  Use your head (literally) to follow instructions. 
@@ -6,9 +11,9 @@ CONVULSE:  mean computer tells you to do things (╯°□°）╯︵ ┻━┻  
 
 - Uses Webcam
 - Detects Face (Haar cascades)
-   -using https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
+  
 - Detects Facial Emotions with CNN (Happy, Sad, Angry, Neutral, Disgust, Fear, Surprise)
-    - using https://github.com/oarriaga/face_classification for CNN classification
+    
 - Detects Motion (Swaying)
 - Manipulates Webcam imagery (Video effects for added difficulty)
 
