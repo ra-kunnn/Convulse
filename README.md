@@ -5,8 +5,10 @@ CONVULSE:  mean computer tells you to do things (╯°□°）╯︵ ┻━┻  
 
 
 - Uses Webcam
-- Detects Face
+- Detects Face (Haar cascades)
+   -using https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
 - Detects Facial Emotions with CNN (Happy, Sad, Angry, Neutral, Disgust, Fear, Surprise)
+    - using https://github.com/oarriaga/face_classification for CNN classification
 - Detects Motion (Swaying)
 - Manipulates Webcam imagery (Video effects for added difficulty)
 
