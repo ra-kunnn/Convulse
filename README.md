@@ -1,6 +1,7 @@
 # Convulse
 
-CONVULSE:  mean computer tells you to do things (╯°□°）╯︵ ┻━┻  Use your head (literally) to follow instructions. Emote went told, shift when told! Task: Tilt to direction, Change Emotions, Sway
+CONVULSE:  mean computer tells you to do things (╯°□°）╯︵ ┻━┻  Use your head (literally) to follow instructions. 
+- Emote when told, shift when told! Task: Tilt to direction, Change Emotions, Sway
 
 
 - Uses Webcam
@@ -12,14 +13,14 @@ CONVULSE:  mean computer tells you to do things (╯°□°）╯︵ ┻━┻  
 Inspiration: Bop-it but with your face
 
 
-• Python + OpenCV image handling - webcam 
-• Object detection (face, person, vehicle) - detects ur face 
-• Object tracking and motion analysis - detects your action
-• Image manipulation and processing - glitches your screen to make it harder
-• Visualizing CNN features - Emotions
+- Python + OpenCV image handling - webcam 
+- Object detection (face, person, vehicle) - detects ur face 
+- Object tracking and motion analysis - detects your action
+- Image manipulation and processing - glitches your screen to make it harder
+- Visualizing CNN features - Emotions
 
-More than 3 computer vision techniques used +1 pt/
-Real-time webcam input +1 pt /
-Integration of CNN using TensorFlow/Keras +1 pt/
-Project published on GitHub with README.md +1 pt /
+- More than 3 computer vision techniques used +1 pt/
+- Real-time webcam input +1 pt /
+- Integration of CNN using TensorFlow/Keras +1 pt/
+- Project published on GitHub with README.md +1 pt /
 
