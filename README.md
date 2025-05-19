@@ -19,6 +19,7 @@ Inspiration: Bop-it but with your face
 - Image manipulation and processing - glitches your screen to make it harder
 - Visualizing CNN features - Emotions
 
+Additional Points
 - More than 3 computer vision techniques used +1 pt/
 - Real-time webcam input +1 pt /
 - Integration of CNN using TensorFlow/Keras +1 pt/
