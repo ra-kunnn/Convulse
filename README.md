@@ -1,4 +1,4 @@
-Important files to donwload before using this:
+Important files to download before using this:
  - using https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
  - using https://github.com/oarriaga/face_classification/blob/master/trained_models/emotion_models/fer2013_mini_XCEPTION.102-0.66.hdf5 for CNN classification
 
@@ -25,10 +25,4 @@ Inspiration: Bop-it but with your face
 - Object tracking and motion analysis - detects your action
 - Image manipulation and processing - glitches your screen to make it harder
 - Visualizing CNN features - Emotions
-
-Additional Points
-- More than 3 computer vision techniques used +1 pt/
-- Real-time webcam input +1 pt /
-- Integration of CNN using TensorFlow/Keras +1 pt/
-- Project published on GitHub with README.md +1 pt /
 
